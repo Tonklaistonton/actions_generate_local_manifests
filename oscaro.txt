@@ -1,6 +1,6 @@
 git clone https://github.com/Tonklaistonton/android_device_oneplus_oscaro device/oneplus/oscaro -b evox
 git clone https://github.com/LineageOS/android_device_oneplus_sm8250-common device/oneplus/sm6375-common -b lineage-22.1
 git clone https://github.com/LineageOS/android_kernel_oneplus_sm8250 kernel/oneplus/sm6375 -b lineage-22.1
-git clone https://github.com/Tonklaistonton/vendor_oneplus_oscar -b fifteen vendor/oneplus/oscaro
-git clone https://github.com/PixelOS-Devices/vendor_oneplus_sm6375-common -b fifteen vendor/oneplus/sm6375-common
+git clone https://github.com/TheMuppets/proprietary_vendor_oneplus_oscaro -b lineage-22.1 vendor/oneplus/oscaro
+git clone https://github.com/TheMuppets/proprietary_vendor_oneplus_sm6375-common -b lineage-22.1 vendor/oneplus/sm6375-common
 git clone https://github.com/LineageOS/android_hardware_oplus.git -b lineage-22.1 hardware/oplus
